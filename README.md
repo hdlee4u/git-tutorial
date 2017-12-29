@@ -1,2 +1,4 @@
-# Git tutorial
+# Git Tutorial
+
  - feature-A
+ - fix-B
