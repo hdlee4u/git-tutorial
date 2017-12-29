@@ -2,4 +2,5 @@
 
  - feature-A
  - fix-B
- - reatore-C
+ - feature-C
+ - feature-D
