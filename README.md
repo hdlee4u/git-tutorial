@@ -1,3 +1,6 @@
-# h2
-test for git
+<<<<<<< HEAD
+# Git Tutorial
+
 - feature-A
+- fix-B
+>>>>>>> fix-B
