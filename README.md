@@ -1,8 +1,12 @@
-<<<<<<< HEAD
 # Git Tutorial
 
 - feature-A
 - fix-B
 - feature-C
 - fix typo
->>>>>>> fix-B
+=====
+> by other developer
++ haha plus
+- hoho minus
+-----
+
