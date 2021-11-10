@@ -1,9 +1,0 @@
-# Github Flavored Markdown (GFM)
-
-## Syntax Highlight
-- Python as an example
-
-```python
-def hello_world():
-    print("Hello World.")
-```
